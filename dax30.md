@@ -154,7 +154,7 @@ for i in check_for:
     Durchschnitt 27.: 62.16000000000001
     Durchschnitt 28.: 60.840571428571415
     
-
+und hier am Beispiel der Deutschen Telekom
 
 ```python
 for i in check_for:
@@ -194,6 +194,7 @@ for i in check_for:
     Durchschnitt 27.: 16.350000381469727
     Durchschnitt 28.: 16.30871374947684
     
+und schließlich alle DAX30 Konzerne
 
 ## Vergleich DAX30
 
